@@ -1,0 +1,7 @@
+C:\Users\jgcal\RiderProjects\ProblemaPicasYFijas\ProblemaPicasYFijas\bin\Debug\ProblemaPicasYFijas.exe
+C:\Users\jgcal\RiderProjects\ProblemaPicasYFijas\ProblemaPicasYFijas\bin\Debug\ProblemaPicasYFijas.pdb
+C:\Users\jgcal\RiderProjects\ProblemaPicasYFijas\ProblemaPicasYFijas\obj\Debug\ProblemaPicasYFijas.csproj.AssemblyReference.cache
+C:\Users\jgcal\RiderProjects\ProblemaPicasYFijas\ProblemaPicasYFijas\obj\Debug\ProblemaPicasYFijas.csproj.SuggestedBindingRedirects.cache
+C:\Users\jgcal\RiderProjects\ProblemaPicasYFijas\ProblemaPicasYFijas\obj\Debug\ProblemaPicasYFijas.csproj.CoreCompileInputs.cache
+C:\Users\jgcal\RiderProjects\ProblemaPicasYFijas\ProblemaPicasYFijas\obj\Debug\ProblemaPicasYFijas.exe
+C:\Users\jgcal\RiderProjects\ProblemaPicasYFijas\ProblemaPicasYFijas\obj\Debug\ProblemaPicasYFijas.pdb
